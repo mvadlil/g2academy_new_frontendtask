@@ -1,0 +1,26 @@
+#home {
+  background-color: #0a5275;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+#home h1 {
+  padding: 25px 0px;
+  color: #fff;
+  margin: 0px 16%;
+  text-align: justify;
+}
+
+#home img {
+  border-radius: 10px;
+}
+
+#home p {
+  color: #fff;
+  margin: 20px 16%;
+  text-align: justify;
+}
+
+#home #diluctalent {
+  width: 68%;
+}
